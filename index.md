@@ -3,21 +3,22 @@
 ![Andrew Thomas Jones](images/me.png "Andrew Thomas Jones")
 
 > ironic quote <cite>Someone or other</cite>
+> 
 ---
 
-# Stuff I'm working on
+# Projects I'm working on
 
 - Thing 1
 - Thing 2
 - Thing 3
 
+[Writing](https://reallynotsureyet.dujdhbdjkbndn.com)
+
 ---
 
-# Links
+# Links 
 
 [Github](https://github.com/andrewthomasjones/)
-
-[Twitter](https://twitter.com/)
 
 [LinkedIn](https://www.linkedin.com/in/andrewthomasjones/)
 
@@ -26,5 +27,8 @@
 [Google Scholar](https://scholar.google.com.au/citations?user=Z1eSZWMAAAAJ/)
 
 # Contact
+
 <andrewthomasjones@gmail.com>
+
+[Twitter](https://twitter.com/)
 
