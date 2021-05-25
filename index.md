@@ -12,8 +12,6 @@
 - Thing 2
 - Thing 3
 
-[Writing](https://reallynotsureyet.dujdhbdjkbndn.com)
-
 ---
 
 # Links 
@@ -25,6 +23,8 @@
 [Research Gate](https://www.researchgate.net/profile/Andrew-Jones-7/)
 
 [Google Scholar](https://scholar.google.com.au/citations?user=Z1eSZWMAAAAJ/)
+
+[Writing](https://reallynotsureyet.dujdhbdjkbndn.com)
 
 # Contact
 
