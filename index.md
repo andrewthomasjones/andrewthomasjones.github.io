@@ -30,5 +30,5 @@
 
 <andrewthomasjones@gmail.com>
 
-[Twitter](https://twitter.com/)
+[username@Twitter](https://twitter.com/username)
 
