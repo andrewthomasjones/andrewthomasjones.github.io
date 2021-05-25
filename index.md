@@ -13,7 +13,7 @@
 
 ---
 
-# Links to my other pages
+# Links
 
 [Github](https://github.com/andrewthomasjones/)
 
@@ -26,4 +26,5 @@
 [Google Scholar](https://scholar.google.com.au/citations?user=Z1eSZWMAAAAJ/)
 
 # Contact
+<andrewthomasjones@gmail.com>
 
