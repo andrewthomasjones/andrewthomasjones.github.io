@@ -1,6 +1,6 @@
 ## Andrew Thomas Jones
 
-![Andrew Thomas Jones](images/me.png "Andrew Thomas Jones")
+![Andrew Thomas Jones](images/me.png "Andrew Thomas Jones" width=100)
 
 > ironic quote <cite>Someone or other</cite>
 > 
