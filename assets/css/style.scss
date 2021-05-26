@@ -22,6 +22,11 @@ $table-border-color: #e9ebec;
 $hr-border-color: #eff0f1;
 
 @import "{{ site.theme }}";
+
+.head {
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+}
+
 .main-content {
   h1 {
    color: #000000;
