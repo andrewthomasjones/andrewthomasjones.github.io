@@ -10,7 +10,7 @@
 
 ---
 
-# Links 
+# Links to my other pages
 
 [Github](https://github.com/andrewthomasjones/)
 
