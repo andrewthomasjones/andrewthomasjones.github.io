@@ -24,5 +24,5 @@
 
 <andrewthomasjones@gmail.com>
 
-[Twitter](https://twitter.com/halfmadeup "awful content")
+[Twitter](https://twitter.com/andyjonesstats)
 
