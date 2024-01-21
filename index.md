@@ -1,0 +1,28 @@
+<!---
+# Projects I'm working on
+
+- []
+- [] 
+- []
+
+---
+--->
+
+# Links to my other pages
+
+[Github](https://github.com/andrewthomasjones/)
+
+[LinkedIn](https://www.linkedin.com/in/andrewthomasjones/)
+
+[Research Gate](https://www.researchgate.net/profile/Andrew-Jones-7/)
+
+[Google Scholar](https://scholar.google.com.au/citations?user=Z1eSZWMAAAAJ/)
+
+[Writing](https://andrewthomasjones.substack.com/ "a placeholder for now.")
+
+# Contact
+
+<andrewthomasjones@gmail.com>
+
+[Twitter](https://twitter.com/andyjonesstats)
+
