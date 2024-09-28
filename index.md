@@ -18,8 +18,6 @@
 
 [Google Scholar](https://scholar.google.com.au/citations?user=Z1eSZWMAAAAJ/)
 
-[Writing](https://andrewthomasjones.substack.com/ "a placeholder for now.")
-
 # Contact
 
 <andrewthomasjones@gmail.com>
