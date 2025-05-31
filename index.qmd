@@ -1,11 +1,24 @@
 ---
-title: "test"
+title: "Links"
 ---
 
-This is a Quarto website.
+## Projects I'm working on
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
+## Links to my other pages
+
+[Github](https://github.com/andrewthomasjones/)
+
+[LinkedIn](https://www.linkedin.com/in/andrewthomasjones/)
+
+[Research Gate](https://www.researchgate.net/profile/Andrew-Jones-7/)
+
+[Google Scholar](https://scholar.google.com.au/citations?user=Z1eSZWMAAAAJ/)
+
+## Contact
+
+<andrewthomasjones@gmail.com>
+
+[Twitter](https://twitter.com/andyjonesstats)
+
