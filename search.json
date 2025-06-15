@@ -2,36 +2,36 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Blog",
+    "title": "Posts",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "No matching items"
   },
   {
-    "objectID": "blog.html#quarto",
-    "href": "blog.html#quarto",
-    "title": "Blog",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "blog.html#running-code",
-    "href": "blog.html#running-code",
-    "title": "Blog",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "index.html#links-to-my-other-pages",
-    "href": "index.html#links-to-my-other-pages",
+    "objectID": "links.html",
+    "href": "links.html",
     "title": "Links",
-    "section": "Links to my other pages",
-    "text": "Links to my other pages\nGithub\nLinkedIn\nResearch Gate\nGoogle Scholar"
+    "section": "",
+    "text": "Github\nLinkedIn\nResearch Gate\nGoogle Scholar"
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
+    "objectID": "links.html#links-to-my-other-pages",
+    "href": "links.html#links-to-my-other-pages",
+    "title": "Links",
+    "section": "",
+    "text": "Github\nLinkedIn\nResearch Gate\nGoogle Scholar"
+  },
+  {
+    "objectID": "links.html#contact",
+    "href": "links.html#contact",
     "title": "Links",
     "section": "Contact",
-    "text": "Contact\nandrewthomasjones@gmail.com\nTwitter"
+    "text": "Contact\nandrewthomasjones@gmail.com Twitter Bluesky"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nLinks to my other pages\nGithub\nLinkedIn\nResearch Gate\nGoogle Scholar\n\n\nContact\nandrewthomasjones@gmail.com\nTwitter\nBluesky\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
