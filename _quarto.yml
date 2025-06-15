@@ -3,15 +3,13 @@ project:
 
 website:
   title: "Andrew Thomas Jones"
-  site-url: https://andrewthomasjones.com.au
+  site-url: "https://www.andrewthomasjones.com.au"
   description: "Personal website of Andrew Thomas Jones, a data scientist, statistician, and software engineer."
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - blog.qmd
-      - links.qmd
 
 format:
   html:
@@ -20,7 +18,14 @@ format:
       - brand
     css: styles.css
     toc: true
-
-editor: visual
 execute:
   freeze: auto
+
+listing:
+  contents: posts
+  feed: 
+    items: 20
+    type: partial
+    title: "Blog Title"
+    description: "Blog description"
+    language: "en"

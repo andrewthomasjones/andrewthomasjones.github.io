@@ -1,10 +1,32 @@
 ---
-title: "myblog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  feed: true
+title: ""
+image: profile.jpg
 ---
 
+# About Me
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+# Links to my other pages
+
+[Github](https://github.com/andrewthomasjones/)
+
+[LinkedIn](https://www.linkedin.com/in/andrewthomasjones/)
+
+[Research Gate](https://www.researchgate.net/profile/Andrew-Jones-7/)
+
+[Google Scholar](https://scholar.google.com.au/citations?user=Z1eSZWMAAAAJ/)
+
+# Contact
+
+[andrewthomasjones\@gmail.com](mailto:andrewthomasjones@gmail.com){.email}
+
+[Twitter](https://twitter.com/andyjonesstats)
+
+[Bluesky](https://bsky.app/profile/andrewjones.bsky.social)
