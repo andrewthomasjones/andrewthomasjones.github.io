@@ -1,0 +1,30 @@
+---
+title: "Publications"
+format: html
+bibliography: pubs.bib
+citeproc: True
+csl: journal-of-the-royal-statistical-society_rchron.csl
+---
+
+::: {.hidden}
+  [@merollini2024factors]
+  [@williams2024efficacy]
+  [@ng2024better]
+  [@cabilan2023inter]
+  [@zhou2023feasibility]
+  [@davenport2021]
+  [@bagnall2019]
+  [@jones2019sweepstakes]
+  [@jones2019boltzmm]
+  [@morgan2019assessment]
+  [@nguyen2018stream]
+  [@jones2018logkde]
+  [@nguyen2018big]
+  [@nguyen2018positive]
+  [@ovenden2016]
+  [@jones2016]
+:::
+
+::: {#refs}
+:::
+        

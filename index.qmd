@@ -1,0 +1,25 @@
+---
+title: ""
+image: "profile.jpg"
+---
+
+# About
+
+I do a lot of stuff and I needed somewhere to put it all.
+
+# Links
+[Github](https://github.com/andrewthomasjones/)
+
+[LinkedIn](https://www.linkedin.com/in/andrewthomasjones/)
+
+[Research Gate](https://www.researchgate.net/profile/Andrew-Jones-7/)
+
+[Google Scholar](https://scholar.google.com.au/citations?user=Z1eSZWMAAAAJ/)
+
+# Contact
+
+[andrewthomasjones\@gmail.com](mailto:andrewthomasjones@gmail.com){.email}
+
+[Twitter](https://twitter.com/andyjonesstats)
+
+[Bluesky](https://bsky.app/profile/andrewjones.bsky.social)

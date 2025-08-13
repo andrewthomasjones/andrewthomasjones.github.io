@@ -1,0 +1,10 @@
+---
+title: "Curriculum vitæ"
+---
+
+::: {.embed-container}
+  <iframe src="CV.pdf" style="border: 0.5px"  width="800px" height="2100px" max-width="100%">
+  </iframe>
+:::
+
+
