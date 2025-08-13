@@ -8,15 +8,15 @@
     "items": []
   },
   {
-    "listing": "/CV.html",
-    "items": []
-  },
-  {
     "listing": "/posts/test_post.html",
     "items": []
   },
   {
     "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/CV.html",
     "items": []
   }
 ]
